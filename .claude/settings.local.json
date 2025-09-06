@@ -7,7 +7,8 @@
       "WebFetch(domain:github.com)",
       "Bash(git commit:*)",
       "Bash(curl:*)",
-      "Bash(test:*)"
+      "Bash(test:*)",
+      "Bash(git checkout:*)"
     ],
     "deny": [],
     "ask": []
